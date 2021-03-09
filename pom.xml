@@ -32,3 +32,8 @@
   </build>
   
 </project>
+<properties>
+  <sonar.projectKey>christoflafon_jenkins-sample</sonar.projectKey>
+  <sonar.organization>christoflafon</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
